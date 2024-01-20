@@ -1,4 +1,4 @@
-**Hi, I’m @DevMorti**
+**Hi, I’m Michel Ortmeier**
 - 🎯 I’m interested in game development!
 - 🧑‍💻 I’m currently learning C# and Unity.
 
